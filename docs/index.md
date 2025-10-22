@@ -21,7 +21,7 @@
 
 ## Inicio Rápido
 
-1. **Instalart** el sistema siguiendo la [guía de instalación](instalacion.md)
+1. **Instalar** el sistema siguiendo la [guía de instalación](instalacion.md)
 2. **Configurar** el centro educativo en [settings](settings.md)
 3. **Acceder** al [dashboard](dashboard.md) principal
 4. **Gestionar** usuarios a través del [sistema de login](login.md)
